@@ -14,4 +14,6 @@ Dengan menggunakan dataset yang mencakup tipe konten, tahun rilis, negara asal, 
 
 # **RECOMENDATIONS**
 Untuk meningkatkan daya tarik dan retensi pengguna, Netflix disarankan untuk memperbanyak produksi **TV Shows** multi-season, memperkaya variasi durasi film, memperluas katalog dari negara-negara non-tradisional seperti Korea Selatan dan Spanyol dengan memanfaatkan popularitas aktor-aktor terkemuka , serta memperluas genre yang belum terwakili secara signifikan seperti **Science Fiction** dan **Fantasy**.
-   
+
+# **Dashboard**
+![Netflix Dashboard](https://github.com/user-attachments/assets/381348b8-68bf-4196-be49-689c002b8717)
